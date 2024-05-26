@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pc3Lezma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dc11cdf09fc25d858fa8bb67f2a1a673c552442")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92730aca241951a0b7c447b6e697267e83e6e545")]
 [assembly: System.Reflection.AssemblyProductAttribute("pc3Lezma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pc3Lezma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
